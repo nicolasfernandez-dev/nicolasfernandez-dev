@@ -20,7 +20,9 @@ I enjoy building things end to end: from an AI agent that remembers its users to
 ### 🛠️ Tech I use
  
 **Languages:** Python · C++ · C · C# · Java · SQL
+
 **Data & AI:** MySQL · Qdrant · Gemini API · mem0
+
 **Tools:** Git · Linux · VS Code · IntelliJ IDEA · Unity
  
 ### 📫 Contact
